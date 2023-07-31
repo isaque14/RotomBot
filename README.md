@@ -5,6 +5,9 @@
 
 - Este projeto envolve a implementação de um bot que realiza verificações contínuas nos projetos de front-end e back-end. Ele verifica se os projetos e serviços estão online e prontos para uso imediato. Caso algum dos projetos ou serviços apresente problemas ou esteja offline, o bot enviará um e-mail para o administrador do sistema, informando sobre a situação.
 
+## Vídeo Apresentação do Projeto
+- [Apresentação do Projeto](https://youtu.be/S3BdYtB_ESc)
+
 ## Links para os outros projetos
 [Back-End (API)](https://github.com/isaque14/pokedex/tree/main)
 </br>
